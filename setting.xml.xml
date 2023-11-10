@@ -1,0 +1,6 @@
+<!-- game_settings.xml -->
+<game_settings>
+    <x1>1</x1>
+    <x2>100</x2>
+    <max_attempts>10</max_attempts>
+</game_settings>
